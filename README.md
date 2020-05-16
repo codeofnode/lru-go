@@ -23,8 +23,8 @@ val, the value against the query (defaults to empty string "", if in case query 
 ok, if query has corresponding value or not
 
 # dir structure
-* lru.go -> the lru cache
-* lru_test.go -> the test files
+* main.go -> the lru cache
+* main_test.go -> the test files
 
 # dependencies
 * go 1.14+
